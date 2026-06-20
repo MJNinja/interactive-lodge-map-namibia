@@ -105,19 +105,6 @@ The map uses:
 * Custom lodge markers
 * Dynamic route overlays
 
-## Future Improvements
-
-Potential enhancements include:
-
-* Real lodge database integration
-* Search functionality
-* Accommodation details page
-* Multi-day itinerary planning
-* Export routes to PDF
-* Mobile-first optimization
-* User authentication
-* Lodge booking integration
-
 ## License
 
 This project is licensed under the MIT License.
